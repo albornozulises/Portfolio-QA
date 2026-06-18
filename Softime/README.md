@@ -2,7 +2,7 @@
 
 Esta Plataforma será una aplicación informática que permitirá realizar el seguimiento de la atención de los Pacientes en un Servicio de Diagnostico por Imágenes (RIS).
 
-#El proyecto aún se encuentra en curso, por lo que las actividades realizadas se irán actualizando.
+##El proyecto aún se encuentra en curso, por lo que las actividades realizadas se irán actualizando.
 
 ## Actividades realizadas
 

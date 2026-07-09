@@ -6,9 +6,9 @@ Esta Plataforma será una aplicación informática que permitirá realizar el se
 
 ## Actividades realizadas
 
-- Diseño de +36 casos de prueba
+- Diseño de +60 casos de prueba
 - Ejecución de pruebas funcionales
-- Reporte de 15 defectos
+- Reporte de +40 defectos
 - Validación de correcciones
 - Smoke testing
 - API Testing
